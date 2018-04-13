@@ -32,4 +32,7 @@ Code adapted from [Camelyon17] (https://github.com/Camelyon17/camelyon17)
  + `python3 make_manifest.py`
 
 ### Train:
- + `python3 train.py --train_epoch=10'
+ + `python3 train.py --train_epoch=10`
+ 
+### Web server:
+ + `python3 main.py`
